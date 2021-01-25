@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 6
+names: ['Football mini', 'Football size 5', 'Honkball', 'Rugby', 'hockey puck', 'tennis']
